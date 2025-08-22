@@ -23,7 +23,6 @@ El resultado se guarda como `ftse250_companies.csv`.
 - beautifulsoup4  
 
 Instalación de dependencias:
-```bash
 pip install requests beautifulsoup4
 
 
