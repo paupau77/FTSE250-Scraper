@@ -53,7 +53,7 @@ Balfour Beatty	BBY	Construction
 
 📜 Licencia
 
-Este proyecto está bajo la licencia MIT.
+Mi proyecto está bajo la licencia MIT.
 Sos libre de usarlo, modificarlo y compartirlo!
 
 ---
